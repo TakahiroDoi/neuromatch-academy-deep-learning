@@ -3,17 +3,17 @@
 * Original notebooks are found in https://deeplearning.neuromatch.io/tutorials/intro.html
 
 # Contents 
-* Basics And Pytorch (W1D1)
-* Linear Deep Learning (W1D2)
-* Multi Layer Perceptrons (W1D3)
-* Optimization (W1D4)
-* Regularization (W1D5)
-* Convnets And Recurrent Neural Networks (W2D1)
-* Modern Convnets (W2D2)
-* Modern Recurrent Neural Networks (W2D3)
-* Attention And Transformers (W2D4)
-* Generative Models (W2D5)
-* Unsupervised And Self Supervised Learning (W3D1)
-* Basic Reinforcement Learning (W3D2)
-* Reinforcement Learning For Games (W3D3)
-* Continual Learning (W3D4)
+* Week1 Day1: Basics And Pytorch 
+* Week1 Day2: Linear Deep Learning 
+* Week1 Day3: Multi Layer Perceptrons
+* Week1 Day4: Optimization 
+* Week1 Day5: Regularization 
+* Week2 Day1: Convnets And Recurrent Neural Networks 
+* Week2 Day2: Modern Convnets 
+* Week2 Day3: Modern Recurrent Neural Networks 
+* Week2 Day4: Attention And Transformers 
+* Week2 Day5: Generative Models 
+* Week3 Day1: Unsupervised And Self Supervised Learning 
+* Week3 Day2: Basic Reinforcement Learning 
+* Week3 Day3: Reinforcement Learning For Games
+* Week3 Day4: Continual Learning 
