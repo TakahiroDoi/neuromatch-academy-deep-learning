@@ -3,17 +3,19 @@
 * Original notebooks are found in https://deeplearning.neuromatch.io/tutorials/intro.html
 
 # Contents (main lecturer)
-* Week1 Day1: Basics And Pytorch (Konrad Kording)
-* Week1 Day2: Linear Deep Learning (Andrew Saxe)
-* Week1 Day3: Multi Layer Perceptrons (Surya Ganguli)
-* Week1 Day4: Optimization (Ioannis Mitliagkas) 
-* Week1 Day5: Regularization (Lyle Ungar) 
-* Week2 Day1: Convnets And Recurrent Neural Networks (Alona Fyshe) 
-* Week2 Day2: Modern Convnets (Alexander Ecker) 
-* Week2 Day3: Modern Recurrent Neural Networks (James Evans) 
-* Week2 Day4: Attention And Transformers (He He) 
-* Week2 Day5: Generative Models (Vikash Gilja) 
-* Week3 Day1: Unsupervised And Self Supervised Learning (Blake Richards) 
-* Week3 Day2: Basic Reinforcement Learning (Feryal Behbahani, Jane Wang)
-* Week3 Day3: Reinforcement Learning For Games (Tim Lilicrap) 
-* Week3 Day4: Continual Learning (Keiland Cooper) 
+|  Weak |  Day  | Topic | Main lecturer | 
+| ----- | ----- | ----- | ------------- |
+| 1     | 1     | Basics and PyTorch      | Konrad Kording |
+| 1     | 2     | Linear Deep Learning    | Andrew Saxe |
+| 1     | 3     | Multi Layer Perceptrons | Surya Ganguli |
+| 1     | 4     | Optimization            | Ioannis Mitliagkas |
+| 1     | 5     | Regularization          | Lyle Ungar |
+| 2     | 1     | Convnets And Recurrent Neural Networks    | Alona Fyshe |
+| 2     | 2     | Modern Convnets                  | Alexander Ecker |
+| 2     | 3     | Modern Recurrent Neural Networks | James Evans |
+| 2     | 4     | Attention And Transformers       | He He |
+| 2     | 5     | Generative Models                | Vikash Gilja |
+| 3     | 1     | Unsupervised And Self Supervised Learning     | Blake Richards |
+| 3     | 2     | Basic Reinforcement Learning                  | Feryal Behbahani, Jane Wang |
+| 3     | 3     | Reinforcement Learning For Games | Tim Lilicrap |
+| 3     | 4     | Continual Learning               | Keiland Cooper |
