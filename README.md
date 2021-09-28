@@ -19,3 +19,6 @@
 | 3     | 2     | Basic Reinforcement Learning                  | Feryal Behbahani, Jane Wang |
 | 3     | 3     | Reinforcement Learning For Games | Tim Lilicrap |
 | 3     | 4     | Continual Learning               | Keiland Cooper |
+
+# Note
+* Github page cannot show W3D1 notebook but Jupytor notebook can (to reduce the file size, several representational similarity matrices were not plotted).  
