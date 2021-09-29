@@ -20,5 +20,6 @@
 | 3     | 3     | Reinforcement Learning For Games | Tim Lilicrap |
 | 3     | 4     | Continual Learning               | Keiland Cooper |
 
-# Note
-* Github page cannot show W3D1 notebook but Jupytor notebook can (to reduce the file size, several representational similarity matrices were not plotted).  
+# Note on Week 3 Day 1 tutorial
+* The preview is not available on Github but you can view the tutorial on jupytor notebook
+* To reduce the file size, several representational similarity matrices were exluded from the plots.
